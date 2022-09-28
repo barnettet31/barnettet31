@@ -10,6 +10,7 @@
 
 ## About Me
 ![](./profile_image.jpg)
+<br>
 Hi Everyone! My name is Travis Barnette! I've been developing in Javascript for about 2 years now! I first developed a passion for tech at my current job at AutoCorner LLC! I tried out a couple of coding projects starting with [FreeCodeCamp](http://www.freecodecamp.org) and then moving on to the challenges on [FrontEndMentor](https://www.frontendmentor.io)! 
 
 I plan to complete a bootcamp curriculum with [Promineo Tech](https://www.linkedin.com/school/promineo-tech/) starting 9/29/22 so I'm really excited to get started and make some really valuable connections! 
