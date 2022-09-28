@@ -9,7 +9,7 @@
 
 
 ## About Me
-![](./profile_image.jpg)
+<div style="width:50px; height:50px; border-radius:50%;"><img style="object-fit:contain;" src="./profile_image.jpg"/></div>
 <br>
 Hi Everyone! My name is Travis Barnette! I've been developing in Javascript for about 2 years now! I first developed a passion for tech at my current job at AutoCorner LLC! I tried out a couple of coding projects starting with [FreeCodeCamp](http://www.freecodecamp.org) and then moving on to the challenges on [FrontEndMentor](https://www.frontendmentor.io)! 
 
@@ -25,10 +25,10 @@ I love to learn though so even if I don't know anything I'm ready to search for 
 
 - LinkedIn Link: [barnettetravis31](https://www.linkedin.com/in/barnettetravis31/)
 - Twitter: [@barnettetravis31](https://twitter.com/barnett_travis5)
--Instagram: [@travcodez](https://www.instagram.com/travcodez/)
--Youtube: [https://www.youtube.com/channel/UCkwVXYkkGf0ej84_wWpSbvg](https://www.youtube.com/channel/UCkwVXYkkGf0ej84_wWpSbvg)
--Facebook: [travcodez](https://www.facebook.com/profile.php?id=100086264264053)
--FrontEndMentor [@barnettet31](https://www.frontendmentor.io/profile/barnettet31)
+- Instagram: [@travcodez](https://www.instagram.com/travcodez/)
+- Youtube: [https://www.youtube.com/channel/UCkwVXYkkGf0ej84_wWpSbvg](https://www.youtube.com/channel/UCkwVXYkkGf0ej84_wWpSbvg)
+- Facebook: [travcodez](https://www.facebook.com/profile.php?id=100086264264053)
+- FrontEndMentor [@barnettet31](https://www.frontendmentor.io/profile/barnettet31)
 
 ### Favorite Books
 
